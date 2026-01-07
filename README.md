@@ -10,3 +10,4 @@ This repository contains my solutions to various CodeChef problems.
 | 2 | - | [Lucky Seven](./lucky-seven/README.md) | [C](./lucky-seven/Solution.c) | 213 |
 | 3 | - | [Clear Day](./clear-day/README.md) | [C](./clear-day/Solution.c) | 233 |
 | 4 | - | [Double Rent](./double-rent/README.md) | [C](./double-rent/Solution.c) | 234 |
+| 5 | - | [Saving Taxes](./saving-taxes/README.md) | [C](./saving-taxes/Solution.c) | 252 |
