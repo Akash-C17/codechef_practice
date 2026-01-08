@@ -11,3 +11,4 @@ This repository contains my solutions to various CodeChef problems.
 | 3 | - | [Clear Day](./clear-day/README.md) | [C](./clear-day/Solution.c) | 233 |
 | 4 | - | [Double Rent](./double-rent/README.md) | [C](./double-rent/Solution.c) | 234 |
 | 5 | - | [Saving Taxes](./saving-taxes/README.md) | [C](./saving-taxes/Solution.c) | 252 |
+| 6 | - | [Masterchef finals](./masterchef-finals/README.md) | [C](./masterchef-finals/Solution.c) | 255 |
