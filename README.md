@@ -12,3 +12,4 @@ This repository contains my solutions to various CodeChef problems.
 | 4 | - | [Double Rent](./double-rent/README.md) | [C](./double-rent/Solution.c) | 234 |
 | 5 | - | [Saving Taxes](./saving-taxes/README.md) | [C](./saving-taxes/Solution.c) | 252 |
 | 6 | - | [Masterchef finals](./masterchef-finals/README.md) | [C](./masterchef-finals/Solution.c) | 255 |
+| 7 | - | [Biryani classes](./biryani-classes/README.md) | [C](./biryani-classes/Solution.c) | 257 |
