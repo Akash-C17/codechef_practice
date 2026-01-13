@@ -16,3 +16,4 @@ This repository contains my solutions to various CodeChef problems.
 | 8 | - | [Chef Plays Ludo](./chef-plays-ludo/README.md) | [C](./chef-plays-ludo/Solution.c) | 260 |
 | 9 | - | [How many unattempted problems](./how-many-unattempted-problems/README.md) | [C](./how-many-unattempted-problems/Solution.c) | 264 |
 | 10 | - | [Determine the Score](./determine-the-score/README.md) | [C](./determine-the-score/Solution.c) | 267 |
+| 11 | - | [404 Not Found](./404-not-found/README.md) | [C](./404-not-found/Solution.c) | 267 |
