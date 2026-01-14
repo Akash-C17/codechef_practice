@@ -17,3 +17,4 @@ This repository contains my solutions to various CodeChef problems.
 | 9 | - | [How many unattempted problems](./how-many-unattempted-problems/README.md) | [C](./how-many-unattempted-problems/Solution.c) | 264 |
 | 10 | - | [Determine the Score](./determine-the-score/README.md) | [C](./determine-the-score/Solution.c) | 267 |
 | 11 | - | [404 Not Found](./404-not-found/README.md) | [C](./404-not-found/Solution.c) | 267 |
+| 12 | - | [Off By One](./off-by-one/README.md) | [C](./off-by-one/Solution.c) | 271 |
