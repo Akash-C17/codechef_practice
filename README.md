@@ -21,3 +21,4 @@ This repository contains my solutions to various CodeChef problems.
 | 13 | - | [Donation Drive](./donation-drive/README.md) | [C](./donation-drive/Solution.c) | 272 |
 | 14 | - | [Kitchen Timings](./kitchen-timings/README.md) | [C](./kitchen-timings/Solution.c) | 273 |
 | 15 | - | [IPL Ticket Rush](./ipl-ticket-rush/README.md) | [C](./ipl-ticket-rush/Solution.c) | 273 |
+| 16 | - | [Audible Range](./audible-range/README.md) | [C](./audible-range/Solution.c) | 279 |
