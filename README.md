@@ -24,3 +24,4 @@ This repository contains my solutions to various CodeChef problems.
 | 16 | - | [Audible Range](./audible-range/README.md) | [C](./audible-range/Solution.c) | 279 |
 | 17 | - | [Reach on Time](./reach-on-time/README.md) | [C](./reach-on-time/Solution.c) | 279 |
 | 18 | - | [Puzzle Hunt](./puzzle-hunt/README.md) | [C](./puzzle-hunt/Solution.c) | 279 |
+| 280 | BESTOFTWO | [Best of Two](./best-of-two/README.md) | [C](./best-of-two/Solution.c) | 284 |
