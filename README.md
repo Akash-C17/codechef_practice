@@ -25,3 +25,4 @@ This repository contains my solutions to various CodeChef problems.
 | 17 | - | [Reach on Time](./reach-on-time/README.md) | [C](./reach-on-time/Solution.c) | 279 |
 | 18 | - | [Puzzle Hunt](./puzzle-hunt/README.md) | [C](./puzzle-hunt/Solution.c) | 279 |
 | 280 | BESTOFTWO | [Best of Two](./best-of-two/README.md) | [C](./best-of-two/Solution.c) | 284 |
+| 281 | BNE_APT | [Bone Appetit](./bone-appetit/README.md) | [C](./bone-appetit/Solution.c) | 280 |
