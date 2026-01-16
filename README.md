@@ -29,3 +29,4 @@ This repository contains my solutions to various CodeChef problems.
 | 282 | BTRYHLTH | [Battery Health](./battery-health/README.md) | [C](./battery-health/Solution.c) | 296 |
 | 283 | CANDIVIDE | [Candy Division](./candy-division/README.md) | [C](./candy-division/Solution.c) | 289 |
 | 284 | CHEFONDATE | [Chef On Date](./chef-on-date/README.md) | [C](./chef-on-date/Solution.c) | 294 |
+| 285 | CNTWRD | [Counting Words](./counting-words/README.md) | [C](./counting-words/Solution.c) | 296 |
