@@ -32,3 +32,4 @@ This repository contains my solutions to various CodeChef problems.
 | 285 | CNTWRD | [Counting Words](./counting-words/README.md) | [C](./counting-words/Solution.c) | 296 |
 | 286 | JERRYCHASE | [Tom and Jerry Chase](./tom-and-jerry-chase/README.md) | [C](./tom-and-jerry-chase/Solution.c) | 298 |
 | 287 | MINHEIGHT | [Roller Coaster](./roller-coaster/README.md) | [C](./roller-coaster/Solution.c) | 285 |
+| 288 | PAR2 | [Parity](./parity/README.md) | [C](./parity/Solution.c) | 295 |
