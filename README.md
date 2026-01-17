@@ -30,3 +30,4 @@ This repository contains my solutions to various CodeChef problems.
 | 283 | CANDIVIDE | [Candy Division](./candy-division/README.md) | [C](./candy-division/Solution.c) | 289 |
 | 284 | CHEFONDATE | [Chef On Date](./chef-on-date/README.md) | [C](./chef-on-date/Solution.c) | 294 |
 | 285 | CNTWRD | [Counting Words](./counting-words/README.md) | [C](./counting-words/Solution.c) | 296 |
+| 286 | JERRYCHASE | [Tom and Jerry Chase](./tom-and-jerry-chase/README.md) | [C](./tom-and-jerry-chase/Solution.c) | 298 |
