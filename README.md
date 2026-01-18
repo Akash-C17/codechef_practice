@@ -35,3 +35,4 @@ This repository contains my solutions to various CodeChef problems.
 | 288 | PAR2 | [Parity](./parity/README.md) | [C](./parity/Solution.c) | 295 |
 | 289 | PRIZEPOOL | [Total Prize Money](./total-prize-money/README.md) | [C](./total-prize-money/Solution.c) | 296 |
 | 290 | REACHTARGET | [Reach the Target](./reach-the-target/README.md) | [C](./reach-the-target/Solution.c) | 281 |
+| 291 | RIP2000 | [2000](./2000/README.md) | [C](./2000/Solution.c) | 284 |
