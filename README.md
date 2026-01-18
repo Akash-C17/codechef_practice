@@ -36,3 +36,4 @@ This repository contains my solutions to various CodeChef problems.
 | 289 | PRIZEPOOL | [Total Prize Money](./total-prize-money/README.md) | [C](./total-prize-money/Solution.c) | 296 |
 | 290 | REACHTARGET | [Reach the Target](./reach-the-target/README.md) | [C](./reach-the-target/Solution.c) | 281 |
 | 291 | RIP2000 | [2000](./2000/README.md) | [C](./2000/Solution.c) | 284 |
+| 292 | TALLER | [Who is taller!](./who-is-taller/README.md) | [C](./who-is-taller/Solution.c) | 281 |
