@@ -34,3 +34,4 @@ This repository contains my solutions to various CodeChef problems.
 | 287 | MINHEIGHT | [Roller Coaster](./roller-coaster/README.md) | [C](./roller-coaster/Solution.c) | 285 |
 | 288 | PAR2 | [Parity](./parity/README.md) | [C](./parity/Solution.c) | 295 |
 | 289 | PRIZEPOOL | [Total Prize Money](./total-prize-money/README.md) | [C](./total-prize-money/Solution.c) | 296 |
+| 290 | REACHTARGET | [Reach the Target](./reach-the-target/README.md) | [C](./reach-the-target/Solution.c) | 281 |
