@@ -58,3 +58,4 @@ This repository contains my solutions to various CodeChef problems.
 | 50 | SUBSCRIBE | [Get Subscription](./get-subscription/README.md) | [C](./get-subscription/Solution.c) | 315 |
 | 51 | SUMM | [Sum it](./sum-it/README.md) | [C](./sum-it/Solution.c) | 308 |
 | 52 | WAITTIME | [Waiting Time](./waiting-time/README.md) | [C](./waiting-time/Solution.c) | 319 |
+| 53 | AGEING | [Ageing](./ageing/README.md) | [C](./ageing/Solution.c) | 299 |
