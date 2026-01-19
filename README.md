@@ -39,3 +39,4 @@ This repository contains my solutions to various CodeChef problems.
 | 31 | TALLER | [Who is taller!](./who-is-taller/README.md) | [C](./who-is-taller/Solution.c) | 281 |
 | 32 | AIRINDEX | [Air Quality Index](./air-quality-index/README.md) | [C](./air-quality-index/Solution.c) | 347 |
 | 33 | AUCTION | [Bidding](./bidding/README.md) | [C](./bidding/Solution.c) | 330 |
+| 34 | BULLBEAR | [Bull or Bear](./bull-or-bear/README.md) | [C](./bull-or-bear/Solution.c) | 300 |
