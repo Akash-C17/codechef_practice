@@ -38,3 +38,4 @@ This repository contains my solutions to various CodeChef problems.
 | 30 | RIP2000 | [2000](./2000/README.md) | [C](./2000/Solution.c) | 284 |
 | 31 | TALLER | [Who is taller!](./who-is-taller/README.md) | [C](./who-is-taller/Solution.c) | 281 |
 | 32 | AIRINDEX | [Air Quality Index](./air-quality-index/README.md) | [C](./air-quality-index/Solution.c) | 347 |
+| 33 | AUCTION | [Bidding](./bidding/README.md) | [C](./bidding/Solution.c) | 330 |
