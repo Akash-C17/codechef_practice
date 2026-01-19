@@ -34,14 +34,14 @@ def main():
         readme_content = ""
     
     # Find the last problem number
-    matches = re.findall(r'\|\s*(\d+)\s*\|', readme_content)
+    matches = re.findall(r'^\|\s*(\d+)\s*\|', readme_content, re.MULTILINE)
     if matches:
         problem_count = int(matches[-1])
     else:
         problem_count = 0
         
-    current_date = datetime.datetime(2026, 1, 15, 14, 0, 0)
-    commits_on_current_day = 2 # Since we already did 2 on Jan 15 (Reach on Time, Puzzle Hunt)
+    current_date = datetime.datetime(2026, 1, 19, 10, 0, 0)
+    commits_on_current_day = 0
     
     for filename in sorted(files):
         code = filename[:-2]
