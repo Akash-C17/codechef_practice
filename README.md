@@ -41,3 +41,4 @@ This repository contains my solutions to various CodeChef problems.
 | 33 | AUCTION | [Bidding](./bidding/README.md) | [C](./bidding/Solution.c) | 330 |
 | 34 | BULLBEAR | [Bull or Bear](./bull-or-bear/README.md) | [C](./bull-or-bear/Solution.c) | 300 |
 | 35 | CHAIRS_ | [Chairs Requirement](./chairs-requirement/README.md) | [C](./chairs-requirement/Solution.c) | 305 |
+| 36 | CHESSTIME | [Chess Time](./chess-time/README.md) | [C](./chess-time/Solution.c) | 337 |
