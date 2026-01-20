@@ -42,3 +42,4 @@ This repository contains my solutions to various CodeChef problems.
 | 34 | BULLBEAR | [Bull or Bear](./bull-or-bear/README.md) | [C](./bull-or-bear/Solution.c) | 300 |
 | 35 | CHAIRS_ | [Chairs Requirement](./chairs-requirement/README.md) | [C](./chairs-requirement/Solution.c) | 305 |
 | 36 | CHESSTIME | [Chess Time](./chess-time/README.md) | [C](./chess-time/Solution.c) | 337 |
+| 37 | COUGAME | [Couple Game](./couple-game/README.md) | [C](./couple-game/Solution.c) | 347 |
