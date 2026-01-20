@@ -43,3 +43,4 @@ This repository contains my solutions to various CodeChef problems.
 | 35 | CHAIRS_ | [Chairs Requirement](./chairs-requirement/README.md) | [C](./chairs-requirement/Solution.c) | 305 |
 | 36 | CHESSTIME | [Chess Time](./chess-time/README.md) | [C](./chess-time/Solution.c) | 337 |
 | 37 | COUGAME | [Couple Game](./couple-game/README.md) | [C](./couple-game/Solution.c) | 347 |
+| 38 | DNATION | [Chef and Donation](./chef-and-donation/README.md) | [C](./chef-and-donation/Solution.c) | 305 |
