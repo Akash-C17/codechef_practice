@@ -44,3 +44,4 @@ This repository contains my solutions to various CodeChef problems.
 | 36 | CHESSTIME | [Chess Time](./chess-time/README.md) | [C](./chess-time/Solution.c) | 337 |
 | 37 | COUGAME | [Couple Game](./couple-game/README.md) | [C](./couple-game/Solution.c) | 347 |
 | 38 | DNATION | [Chef and Donation](./chef-and-donation/README.md) | [C](./chef-and-donation/Solution.c) | 305 |
+| 39 | FAIRPASS | [Passes for Fair](./passes-for-fair/README.md) | [C](./passes-for-fair/Solution.c) | 342 |
