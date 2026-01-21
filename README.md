@@ -46,3 +46,4 @@ This repository contains my solutions to various CodeChef problems.
 | 38 | DNATION | [Chef and Donation](./chef-and-donation/README.md) | [C](./chef-and-donation/Solution.c) | 305 |
 | 39 | FAIRPASS | [Passes for Fair](./passes-for-fair/README.md) | [C](./passes-for-fair/Solution.c) | 342 |
 | 40 | FINE | [Overspeeding Fine](./overspeeding-fine/README.md) | [C](./overspeeding-fine/Solution.c) | 335 |
+| 41 | FOURTICKETS | [Four Tickets](./four-tickets/README.md) | [C](./four-tickets/Solution.c) | 302 |
