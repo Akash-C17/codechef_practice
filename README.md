@@ -48,3 +48,4 @@ This repository contains my solutions to various CodeChef problems.
 | 40 | FINE | [Overspeeding Fine](./overspeeding-fine/README.md) | [C](./overspeeding-fine/Solution.c) | 335 |
 | 41 | FOURTICKETS | [Four Tickets](./four-tickets/README.md) | [C](./four-tickets/Solution.c) | 302 |
 | 42 | MANAPTS | [Mana Points](./mana-points/README.md) | [C](./mana-points/Solution.c) | 327 |
+| 43 | MVR | [Messi vs Ronaldo](./messi-vs-ronaldo/README.md) | [C](./messi-vs-ronaldo/Solution.c) | 316 |
