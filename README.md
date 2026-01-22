@@ -52,3 +52,4 @@ This repository contains my solutions to various CodeChef problems.
 | 44 | OCTATHON | [October Marathon](./october-marathon/README.md) | [C](./october-marathon/Solution.c) | 319 |
 | 45 | ONEMORE | [Just One More Episode](./just-one-more-episode/README.md) | [C](./just-one-more-episode/Solution.c) | 320 |
 | 46 | RAINFALL1 | [Rain in Chefland](./rain-in-chefland/README.md) | [C](./rain-in-chefland/Solution.c) | 328 |
+| 47 | READPAGES | [Read Pages](./read-pages/README.md) | [C](./read-pages/Solution.c) | 343 |
