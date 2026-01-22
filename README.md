@@ -50,3 +50,4 @@ This repository contains my solutions to various CodeChef problems.
 | 42 | MANAPTS | [Mana Points](./mana-points/README.md) | [C](./mana-points/Solution.c) | 327 |
 | 43 | MVR | [Messi vs Ronaldo](./messi-vs-ronaldo/README.md) | [C](./messi-vs-ronaldo/Solution.c) | 316 |
 | 44 | OCTATHON | [October Marathon](./october-marathon/README.md) | [C](./october-marathon/Solution.c) | 319 |
+| 45 | ONEMORE | [Just One More Episode](./just-one-more-episode/README.md) | [C](./just-one-more-episode/Solution.c) | 320 |
