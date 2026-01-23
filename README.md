@@ -54,3 +54,4 @@ This repository contains my solutions to various CodeChef problems.
 | 46 | RAINFALL1 | [Rain in Chefland](./rain-in-chefland/README.md) | [C](./rain-in-chefland/Solution.c) | 328 |
 | 47 | READPAGES | [Read Pages](./read-pages/README.md) | [C](./read-pages/Solution.c) | 343 |
 | 48 | RIGHTTHERE | [Right There](./right-there/README.md) | [C](./right-there/Solution.c) | 299 |
+| 49 | SNDMAX | [Second Max of Three Numbers](./second-max-of-three-numbers/README.md) | [C](./second-max-of-three-numbers/Solution.c) | 300 |
