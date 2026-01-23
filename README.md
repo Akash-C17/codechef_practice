@@ -56,3 +56,4 @@ This repository contains my solutions to various CodeChef problems.
 | 48 | RIGHTTHERE | [Right There](./right-there/README.md) | [C](./right-there/Solution.c) | 299 |
 | 49 | SNDMAX | [Second Max of Three Numbers](./second-max-of-three-numbers/README.md) | [C](./second-max-of-three-numbers/Solution.c) | 300 |
 | 50 | SUBSCRIBE | [Get Subscription](./get-subscription/README.md) | [C](./get-subscription/Solution.c) | 315 |
+| 51 | SUMM | [Sum it](./sum-it/README.md) | [C](./sum-it/Solution.c) | 308 |
