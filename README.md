@@ -61,3 +61,4 @@ This repository contains my solutions to various CodeChef problems.
 | 53 | AGEING | [Ageing](./ageing/README.md) | [C](./ageing/Solution.c) | 299 |
 | 54 | CARTRIP | [Car Trip](./car-trip/README.md) | [C](./car-trip/Solution.c) | 374 |
 | 55 | COMPLEXITY | [Time Complexity](./time-complexity/README.md) | [C](./time-complexity/Solution.c) | 364 |
+| 56 | FEVER | [Fever](./fever/README.md) | [C](./fever/Solution.c) | 348 |
