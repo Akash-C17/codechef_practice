@@ -59,3 +59,4 @@ This repository contains my solutions to various CodeChef problems.
 | 51 | SUMM | [Sum it](./sum-it/README.md) | [C](./sum-it/Solution.c) | 308 |
 | 52 | WAITTIME | [Waiting Time](./waiting-time/README.md) | [C](./waiting-time/Solution.c) | 319 |
 | 53 | AGEING | [Ageing](./ageing/README.md) | [C](./ageing/Solution.c) | 299 |
+| 54 | CARTRIP | [Car Trip](./car-trip/README.md) | [C](./car-trip/Solution.c) | 374 |
