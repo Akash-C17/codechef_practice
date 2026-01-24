@@ -57,3 +57,4 @@ This repository contains my solutions to various CodeChef problems.
 | 49 | SNDMAX | [Second Max of Three Numbers](./second-max-of-three-numbers/README.md) | [C](./second-max-of-three-numbers/Solution.c) | 300 |
 | 50 | SUBSCRIBE | [Get Subscription](./get-subscription/README.md) | [C](./get-subscription/Solution.c) | 315 |
 | 51 | SUMM | [Sum it](./sum-it/README.md) | [C](./sum-it/Solution.c) | 308 |
+| 52 | WAITTIME | [Waiting Time](./waiting-time/README.md) | [C](./waiting-time/Solution.c) | 319 |
