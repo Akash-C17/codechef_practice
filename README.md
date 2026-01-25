@@ -63,3 +63,4 @@ This repository contains my solutions to various CodeChef problems.
 | 55 | COMPLEXITY | [Time Complexity](./time-complexity/README.md) | [C](./time-complexity/Solution.c) | 364 |
 | 56 | FEVER | [Fever](./fever/README.md) | [C](./fever/Solution.c) | 348 |
 | 57 | INTRDSGN | [Interior Design](./interior-design/README.md) | [C](./interior-design/Solution.c) | 373 |
+| 58 | INVESTMENT | [Good Investment or Not](./good-investment-or-not/README.md) | [C](./good-investment-or-not/Solution.c) | 357 |
