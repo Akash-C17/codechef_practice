@@ -66,3 +66,4 @@ This repository contains my solutions to various CodeChef problems.
 | 58 | INVESTMENT | [Good Investment or Not](./good-investment-or-not/README.md) | [C](./good-investment-or-not/Solution.c) | 357 |
 | 59 | LTIME | [Lunchtime](./lunchtime/README.md) | [C](./lunchtime/Solution.c) | 352 |
 | 60 | M1ENROL | [MATH1 Enrolment](./math1-enrolment/README.md) | [C](./math1-enrolment/Solution.c) | 349 |
+| 61 | PARTY2 | [Chef gives Party](./chef-gives-party/README.md) | [C](./chef-gives-party/Solution.c) | 363 |
