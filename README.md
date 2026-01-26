@@ -67,3 +67,4 @@ This repository contains my solutions to various CodeChef problems.
 | 59 | LTIME | [Lunchtime](./lunchtime/README.md) | [C](./lunchtime/Solution.c) | 352 |
 | 60 | M1ENROL | [MATH1 Enrolment](./math1-enrolment/README.md) | [C](./math1-enrolment/Solution.c) | 349 |
 | 61 | PARTY2 | [Chef gives Party](./chef-gives-party/README.md) | [C](./chef-gives-party/Solution.c) | 363 |
+| 62 | POPULATION | [Final Population](./final-population/README.md) | [C](./final-population/Solution.c) | 358 |
