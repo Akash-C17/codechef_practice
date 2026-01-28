@@ -4,6 +4,7 @@ import json
 import re
 import datetime
 import subprocess
+import random
 
 TARGET_DIR = r"D:\leetcode\codechef_practice"
 
@@ -40,8 +41,9 @@ def main():
     else:
         problem_count = 0
         
-    current_date = datetime.datetime(2026, 1, 24, 10, 0, 0)
-    commits_on_current_day = 1
+    current_date = datetime.datetime(2026, 1, 28, 10, 0, 0)
+    commits_on_current_day = 0
+    quota_for_day = random.randint(1, 2)
     
     for filename in sorted(files):
         code = filename[:-2]
@@ -109,10 +111,6 @@ def main():
             f.write(new_row)
             
         # Git commit
-        if commits_on_current_day >= 4:
-            current_date += datetime.timedelta(days=1)
-            commits_on_current_day = 0
-            
         commits_on_current_day += 1
         
         date_str = current_date.strftime("%Y-%m-%dT%H:%M:%S")
@@ -123,6 +121,22 @@ def main():
         
         subprocess.run(["git", "add", "."], cwd=TARGET_DIR, env=env)
         subprocess.run(["git", "commit", "-m", f"Add solution for {problem_name}"], cwd=TARGET_DIR, env=env)
+        
+        # Advance date if quota reached
+        if commits_on_current_day >= quota_for_day:
+            commits_on_current_day = 0
+            while True:
+                current_date += datetime.timedelta(days=1)
+                is_weekend = current_date.weekday() >= 5
+                
+                # Weekend: 80% chance to code, 2-4 problems
+                if is_weekend and random.random() < 0.8:
+                    quota_for_day = random.randint(2, 4)
+                    break
+                # Weekday: 20% chance to code, 1 problem
+                elif not is_weekend and random.random() < 0.2:
+                    quota_for_day = 1
+                    break
         
     print("Done generating commits!")
     

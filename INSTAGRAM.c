@@ -4,15 +4,16 @@ int main() {
 	int t;
 	scanf("%d", &t);
 	
-	for(int i=0;i<t;i++){
+	for(int i = 0; i<t;i++){
 	    int x,y;
-	    scanf("%d %d", &x, &y);
+	    scanf("%d %d", &x,&y);
 	    
-	    if((x*3)<=y){
+	    if((y*10)<x){
 	        printf("\nyes");
 	    }
 	    else{
 	        printf("\nno");
+	        
 	    }
 	}
 	return 0;

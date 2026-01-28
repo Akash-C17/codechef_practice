@@ -72,3 +72,4 @@ This repository contains my solutions to various CodeChef problems.
 | 64 | SIXFRIENDS | [Six Friends](./six-friends/README.md) | [C](./six-friends/Solution.c) | 382 |
 | 65 | SLEEP | [Sleep deprivation](./sleep-deprivation/README.md) | [C](./sleep-deprivation/Solution.c) | 348 |
 | 66 | WATERREQ | [Water Requirement](./water-requirement/README.md) | [C](./water-requirement/Solution.c) | 351 |
+| 67 | CABS | [The Cheaper Cab](./the-cheaper-cab/README.md) | [C](./the-cheaper-cab/Solution.c) | 399 |
