@@ -73,3 +73,4 @@ This repository contains my solutions to various CodeChef problems.
 | 65 | SLEEP | [Sleep deprivation](./sleep-deprivation/README.md) | [C](./sleep-deprivation/Solution.c) | 348 |
 | 66 | WATERREQ | [Water Requirement](./water-requirement/README.md) | [C](./water-requirement/Solution.c) | 351 |
 | 67 | CABS | [The Cheaper Cab](./the-cheaper-cab/README.md) | [C](./the-cheaper-cab/Solution.c) | 399 |
+| 68 | CS2023_GIFT | [The Gift](./the-gift/README.md) | [C](./the-gift/Solution.c) | 390 |
