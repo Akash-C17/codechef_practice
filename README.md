@@ -76,3 +76,4 @@ This repository contains my solutions to various CodeChef problems.
 | 68 | CS2023_GIFT | [The Gift](./the-gift/README.md) | [C](./the-gift/Solution.c) | 390 |
 | 69 | CWIREFRAME | [Chef and Wire Frames](./chef-and-wire-frames/README.md) | [C](./chef-and-wire-frames/Solution.c) | 383 |
 | 70 | DISCNT | [Discount](./discount/README.md) | [C](./discount/Solution.c) | 401 |
+| 71 | DOREWARD | [Donation Rewards](./donation-rewards/README.md) | [C](./donation-rewards/Solution.c) | 395 |
