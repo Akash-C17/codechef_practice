@@ -75,3 +75,4 @@ This repository contains my solutions to various CodeChef problems.
 | 67 | CABS | [The Cheaper Cab](./the-cheaper-cab/README.md) | [C](./the-cheaper-cab/Solution.c) | 399 |
 | 68 | CS2023_GIFT | [The Gift](./the-gift/README.md) | [C](./the-gift/Solution.c) | 390 |
 | 69 | CWIREFRAME | [Chef and Wire Frames](./chef-and-wire-frames/README.md) | [C](./chef-and-wire-frames/Solution.c) | 383 |
+| 70 | DISCNT | [Discount](./discount/README.md) | [C](./discount/Solution.c) | 401 |
