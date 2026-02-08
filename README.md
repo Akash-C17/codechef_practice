@@ -78,3 +78,4 @@ This repository contains my solutions to various CodeChef problems.
 | 70 | DISCNT | [Discount](./discount/README.md) | [C](./discount/Solution.c) | 401 |
 | 71 | DOREWARD | [Donation Rewards](./donation-rewards/README.md) | [C](./donation-rewards/Solution.c) | 395 |
 | 72 | HEIGHTRATION | [Height of Rationals](./height-of-rationals/README.md) | [C](./height-of-rationals/Solution.c) | 405 |
+| 73 | INSTAGRAM | [Instagram](./instagram/README.md) | [C](./instagram/Solution.c) | 408 |
