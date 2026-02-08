@@ -77,3 +77,4 @@ This repository contains my solutions to various CodeChef problems.
 | 69 | CWIREFRAME | [Chef and Wire Frames](./chef-and-wire-frames/README.md) | [C](./chef-and-wire-frames/Solution.c) | 383 |
 | 70 | DISCNT | [Discount](./discount/README.md) | [C](./discount/Solution.c) | 401 |
 | 71 | DOREWARD | [Donation Rewards](./donation-rewards/README.md) | [C](./donation-rewards/Solution.c) | 395 |
+| 72 | HEIGHTRATION | [Height of Rationals](./height-of-rationals/README.md) | [C](./height-of-rationals/Solution.c) | 405 |
