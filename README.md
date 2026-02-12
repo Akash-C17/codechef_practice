@@ -82,3 +82,4 @@ This repository contains my solutions to various CodeChef problems.
 | 74 | KITCHENSPICE | [Spice Level](./spice-level/README.md) | [C](./spice-level/Solution.c) | 390 |
 | 75 | MINCOINSREQ | [Minimum Coins](./minimum-coins/README.md) | [C](./minimum-coins/Solution.c) | 390 |
 | 76 | REACH_HOME | [Reach Home](./reach-home/README.md) | [C](./reach-home/Solution.c) | 395 |
+| 77 | TFPAPER | [True and False Paper](./true-and-false-paper/README.md) | [C](./true-and-false-paper/Solution.c) | 398 |
