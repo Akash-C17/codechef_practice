@@ -24,16 +24,16 @@ This repository contains my solutions to various CodeChef problems.
 | 16 | - | [Audible Range](./audible-range/README.md) | [C](./audible-range/Solution.c) | 279 |
 | 17 | - | [Reach on Time](./reach-on-time/README.md) | [C](./reach-on-time/Solution.c) | 279 |
 | 18 | - | [Puzzle Hunt](./puzzle-hunt/README.md) | [C](./puzzle-hunt/Solution.c) | 279 |
-| 280 | BESTOFTWO | [Best of Two](./best-of-two/README.md) | [C](./best-of-two/Solution.c) | 284 |
-| 281 | BNE_APT | [Bone Appetit](./bone-appetit/README.md) | [C](./bone-appetit/Solution.c) | 280 |
-| 282 | BTRYHLTH | [Battery Health](./battery-health/README.md) | [C](./battery-health/Solution.c) | 296 |
-| 283 | CANDIVIDE | [Candy Division](./candy-division/README.md) | [C](./candy-division/Solution.c) | 289 |
-| 284 | CHEFONDATE | [Chef On Date](./chef-on-date/README.md) | [C](./chef-on-date/Solution.c) | 294 |
-| 285 | CNTWRD | [Counting Words](./counting-words/README.md) | [C](./counting-words/Solution.c) | 296 |
-| 286 | JERRYCHASE | [Tom and Jerry Chase](./tom-and-jerry-chase/README.md) | [C](./tom-and-jerry-chase/Solution.c) | 298 |
-| 287 | MINHEIGHT | [Roller Coaster](./roller-coaster/README.md) | [C](./roller-coaster/Solution.c) | 285 |
-| 288 | PAR2 | [Parity](./parity/README.md) | [C](./parity/Solution.c) | 295 |
-| 289 | PRIZEPOOL | [Total Prize Money](./total-prize-money/README.md) | [C](./total-prize-money/Solution.c) | 296 |
-| 290 | REACHTARGET | [Reach the Target](./reach-the-target/README.md) | [C](./reach-the-target/Solution.c) | 281 |
-| 291 | RIP2000 | [2000](./2000/README.md) | [C](./2000/Solution.c) | 284 |
-| 292 | TALLER | [Who is taller!](./who-is-taller/README.md) | [C](./who-is-taller/Solution.c) | 281 |
+| 19 | BESTOFTWO | [Best of Two](./best-of-two/README.md) | [C](./best-of-two/Solution.c) | 284 |
+| 20 | BNE_APT | [Bone Appetit](./bone-appetit/README.md) | [C](./bone-appetit/Solution.c) | 280 |
+| 21 | BTRYHLTH | [Battery Health](./battery-health/README.md) | [C](./battery-health/Solution.c) | 296 |
+| 22 | CANDIVIDE | [Candy Division](./candy-division/README.md) | [C](./candy-division/Solution.c) | 289 |
+| 23 | CHEFONDATE | [Chef On Date](./chef-on-date/README.md) | [C](./chef-on-date/Solution.c) | 294 |
+| 24 | CNTWRD | [Counting Words](./counting-words/README.md) | [C](./counting-words/Solution.c) | 296 |
+| 25 | JERRYCHASE | [Tom and Jerry Chase](./tom-and-jerry-chase/README.md) | [C](./tom-and-jerry-chase/Solution.c) | 298 |
+| 26 | MINHEIGHT | [Roller Coaster](./roller-coaster/README.md) | [C](./roller-coaster/Solution.c) | 285 |
+| 27 | PAR2 | [Parity](./parity/README.md) | [C](./parity/Solution.c) | 295 |
+| 28 | PRIZEPOOL | [Total Prize Money](./total-prize-money/README.md) | [C](./total-prize-money/Solution.c) | 296 |
+| 29 | REACHTARGET | [Reach the Target](./reach-the-target/README.md) | [C](./reach-the-target/Solution.c) | 281 |
+| 30 | RIP2000 | [2000](./2000/README.md) | [C](./2000/Solution.c) | 284 |
+| 31 | TALLER | [Who is taller!](./who-is-taller/README.md) | [C](./who-is-taller/Solution.c) | 281 |
